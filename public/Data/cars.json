@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"Audi A8 L 2022",
+        "img":"../images/car_1.png",
+        "price":"78.00",
+        "engine":"auto",
+        "passengers":5,
+        "power":"Fuel",
+        "section":"Popular"
+    },
+    {
+        "id":2,
+        "name":"Nissan Masima platinum 2022",
+        "img":"../images/car_2.png",
+        "price":"60.00",
+        "engine":"auto",
+        "passengers":6,
+        "power":"Fuel",
+        "section":"Popular"
+    },
+    {
+        "id":3,
+        "name":"Porsche Cayenne GTS 2022",
+        "img":"../images/car_3.png",
+        "price":"100.00",
+        "engine":"auto",
+        "passengers":4,
+        "power":"Electric",
+        "section":"Popular"
+    },
+    {
+        "id":4,
+        "name":"BMW MB Coupe 2022",
+        "img":"../images/car_4.png",
+        "price":"90.00",
+        "engine":"auto",
+        "passengers":4,
+        "power":"Electric",
+        "section":"Popular"
+    },
+    {
+        "id":5,
+        "name":"BMW x6 M50I 2022",
+        "img":"../images/car_5.png",
+        "price":"120.00",
+        "engine":"auto",
+        "passengers":4,
+        "power":"Fuel",
+        "section":"Popular"
+    },
+    {
+        "id":6,
+        "name":"Porsche Cayenne GTS 2022",
+        "img":"../images/car_6.png",
+        "price":"150.00",
+        "engine":"auto",
+        "passengers":4,
+        "power":"Electric",
+        "section":"Popular"
+    }
+]

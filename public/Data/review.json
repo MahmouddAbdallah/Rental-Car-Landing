@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "user":{
+            "name":"Lokman Hossain",
+            "img":"../images/user_1.png",
+            "contury":"Texas"
+        },
+        "review":"I was really impressed with the level of service I received from this car rental company. The process was smooth and easy, and the car I rented was in excellent condition. The staff was friendly and helpful, and I felt well taken care of throughout my rental period. I would definitely recommend this company to anyone looking for a premium car rental experience."
+    },
+    {
+        "id":2,
+        "user":{
+            "name":"Mohamed Ali",
+            "img":"../images/user_2.png",
+            "contury":"Paris"
+        },
+        "review":"Absolutely stellar service from start to finish! Renting a car couldn't have been easier. The vehicle was pristine, and the staff went above and beyond to ensure everything was perfect. Highly recommend this company for anyone seeking top-notch service."
+    },
+    {
+        "id":3,
+        "user":{
+            "name":"Ahmed Ali",
+            "img":"../images/user_3.png",
+            "contury":"Tokeyo"
+        },
+        "review":"Incredible rental experience! From reservation to return, everything was seamless. The car was spotless and drove like a dream. The staff was incredibly accommodating and made the whole process a breeze. A definite recommendation!"
+    },
+    {
+        "id":4,
+        "user":{
+            "name":"Mahmoud Mohamed",
+            "img":"../images/user_4.png",
+            "contury":"Barlane"
+        },
+        "review":"Outstanding service! Renting with this company was a pleasure from beginning to end. The car was immaculate and drove beautifully. Staff was courteous and efficient, ensuring a stress-free rental. Would absolutely use them again!"
+    },
+    {
+        "id":5,
+        "user":{
+            "name":"Moamed Nour",
+            "img":"../images/user_5.png",
+            "contury":"Cario"
+        },
+        "review":"Impressed doesn't even begin to cover it! From the moment I walked in, I knew I was in good hands. The car was in impeccable condition, and the service was unmatched. Highly recommend this company for a hassle-free rental."
+    },
+    {
+        "id":6,
+        "user":{
+            "name":"Mahmoud Metwally",
+            "img":"../images/user_6.png",
+            "contury":"Cario"
+        },
+        "review":"Flawless rental experience! The level of professionalism and attention to detail from this company is unmatched. The car was clean, comfortable, and performed perfectly. Staff was friendly and efficient. I'll be recommending them to everyone I know!"
+    }
+]
