@@ -29,7 +29,7 @@ const Services = () => {
                     </p>
                 </div>
             </div>
-            <div className="grid grid-cols-12 gap-10 mt-14">
+            <div className="grid grid-cols-12 space-y-10 lg:space-y-0 lg:gap-10 mt-14">
                 {servicesData.map(item =>
                     <div className="col-span-12 md:col-span-6 lg:col-span-4 text-white" key={item.p}>
                         <div className="flex flex-col items-center gap-3">
